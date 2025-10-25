@@ -13,6 +13,8 @@ A análise é apresentada em um notebook Jupyter (`.ipynb`) e é estruturada em 
 
 Os dados que compõem o banco de dados foram criados apenas para este projeto.
 
+Uma versão PDF da apresentação está incluída no repositório. Uma versão online interativa (via Canva) também está disponível aqui(link-para-seu-linkedin)."
+
 ## 2. O Problema de Negócio
 
 Atuando como Analista de Dados para o time de RH, o desafio é responder a perguntas críticas sobre a força de trabalho da empresa, incluindo:
