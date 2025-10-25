@@ -13,7 +13,7 @@ A análise é apresentada em um notebook Jupyter (`.ipynb`) e é estruturada em 
 
 Os dados que compõem o banco de dados foram criados apenas para este projeto.
 
-Uma versão PDF da apresentação com os insights está incluída no repositório. Uma versão online interativa (via Canva) também está disponível [aqui]([link-para-seu-linkedin](https://www.canva.com/design/DAG2vyAfgRk/fpC_ZL-oZlI202_DeHW2EQ/edit?utm_content=DAG2vyAfgRk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)).
+Uma versão PDF da apresentação com os insights está incluída no repositório ou [aqui](people_analytics_apresentacao.pdf).
 
 ## 2. O Problema de Negócio
 
